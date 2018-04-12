@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"> 
+	<url>
+		<loc>http://www.espacioseguro.com.ar/index.html</loc>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/espacio_seguro_mesquita.png</image:loc></image:image>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/mostrador_blindado.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/mampara_blindada.jpg</image:loc></image:image>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/financiamiento.png</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/mesquita.jpg</image:loc></image:image>
+	</url>
+	
+	<url>
+		<loc>http://www.espacioseguro.com.ar/precios.html</loc> 
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/espacio_seguro_mesquita.png</image:loc></image:image>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/financiamiento.png</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/mesquita.jpg</image:loc></image:image>
+	</url>
+	
+	<url>
+		<loc>http://www.espacioseguro.com.ar/informacion.html</loc>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/espacio_seguro_mesquita.png</image:loc></image:image>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/figura_tabique_blindado_mostrador_small.png</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/tabique_blindado_mostrador.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/mensula_interior.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/figura_tabique_blindado_vidriado_small.png</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/figura_tabique_blindado_ciego_small.png</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/figura_tabique_puerta_blindada_small.png</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/puerta_blindada.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/cajon_pasavalores.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/cerradura_electromagnetica.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/intercomunicadores.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/diseno1.png</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/diseno2.png</image:loc></image:image>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/financiamiento.png</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/mesquita.jpg</image:loc></image:image>
+	</url>
+	
+	<url>
+		<loc>http://www.espacioseguro.com.ar/fotos.html</loc>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/espacio_seguro_mesquita.png</image:loc></image:image>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/malla_thumb.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/malla.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/bandeja.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/bandeja_thumb.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/mensula.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/mensula_thumb.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/variante_tramites_1.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/variante_tramites_1_thumb.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/variante_tramites_2.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/variante_tramites_2_thumb.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/exhibidor_1.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/exhibidor_1_thumb.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/exhibidor_2.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/exhibidor_2_thumb.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/ventana_blindada.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/ventana_blindada_thumb.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/cliente_satisfecho.jpg</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/galeria/cliente_satisfecho_thumb.jpg</image:loc></image:image>
+		
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/financiamiento.png</image:loc></image:image>
+		<image:image><image:loc>http://www.espacioseguro.com.ar/fotos/mesquita.jpg</image:loc></image:image>
+	</url>
+</urlset>

@@ -1,0 +1,349 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #403830;
+}
+
+#FONT_SIZE_16,
+	nav,
+.font_size_16{
+	font-size:16px;
+}
+
+#FONT_SIZE_15,
+	.main_wrapper, .features p, .title,
+.FONT_SIZE_14{
+	font-size:15px;
+}
+
+#WIDTH_95, 
+	#header_wrapper, #content_wrapper, #footer_wrapper, #nav_wrapper, .main_wrapper,
+.width_95{
+	width:95%;
+}
+
+#MARGIN_AUTO,
+	#header_wrapper, #content_wrapper, #nav_wrapper, #footer_wrapper, .main_wrapper, #presupuesto_header_container,
+.margin_auto{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#FLOAT_LEFT,
+	iframe, .features img, .col_1_3, #info_text, #address_container, #local, #address_text, #banner, #left_sidebar_container,
+.float_left{
+	float: left;
+}
+
+#FLOAT_RIGHT,
+	#info_wrapper, #datos_header, #nav_wrapper ul,
+.float_right{
+	float: right;
+}
+
+#LIGHT_BROWN_BACKGROUND,
+	nav, footer, .features .title ,
+.light_brown .background{
+	background:#706456;
+}
+
+#TEXT_ALIGN_RIGHT,
+	#datos_header, .features .links
+.text_align_right
+{
+	text-align: right;
+}
+
+#WHITE_BACKGROUND,
+	.features, .main_wrapper,
+.white_background{
+	background: white;
+}
+
+#WHITE_FONT,
+	#nav_wrapper a, .title, #info_wrapper, #datos_header,
+.white_font{
+	color: white;
+}
+
+#WHITE_PHOTO_BORDER,
+	#local,
+.white_photo_border{
+	border: 5px solid white;
+}
+
+#WHITE_LINE_BELOW,
+	#info_text h2,
+.white_line_below{
+	border-bottom: 1px solid #FFFFFF;
+}
+
+/*------------------------------------------------------
+					HEADER
+-------------------------------------------------------*/
+header{
+	height: 20%;
+}
+
+#header_wrapper{
+	overflow: hidden;
+}
+
+#header_wrapper img{
+	max-width: 100%;
+}
+
+#datos_header{
+	max-width: 100%;
+}
+
+/*------------------------------------------------------
+					NAV
+-------------------------------------------------------*/
+
+nav{
+	height: 10%;
+	border-bottom: 5px solid black;
+}
+
+#nav_wrapper{
+	height: 100%;
+	overflow: hidden;
+}
+
+@media screen and (max-width: 300px) {
+    body {
+        background-color: lightblue;
+    }
+}
+
+#nav_wrapper ul{
+	list-style-type: none;
+}
+
+#nav_wrapper li{
+	margin-left: 10px;
+	display: inline;
+}
+
+#nav_wrapper a{
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#nav_wrapper a:hover{
+	color: #d8c0a8;
+}
+
+
+/*------------------------------------------------------
+					CONTENT WRAPPER
+-------------------------------------------------------*/
+
+.title {
+	padding: 3px 0 3px 0;
+	min-height:115px;
+}
+
+.features .links a{
+	color: rgb(217, 62, 57);
+}
+
+.col_1_3{
+	width: 21%;
+	min-width: 260px;
+	margin-right: 1%;
+}
+
+.features p{
+	padding: 0px 5px 10px 10px;
+}
+
+#content_wrapper iframe{
+	height: 350px;
+	width: 29%;
+	min-width: 320px;
+}
+
+/*------------------------------------------------------
+					CONTENT WRAPPER: EVERYTHING ELSE
+-------------------------------------------------------*/
+
+.main_wrapper{ /* This is main wrapper, used in presupuesto.html, info.html, and garantia.html*/
+	width: 75%;
+	overflow: hidden;
+	padding-top: 1px;
+}
+
+.main_wrapper_header_container {
+	text-align: center;
+}
+
+/*------------------------------------------------------
+				CONTENT WRAPPER: presupuesto.html
+-------------------------------------------------------*/
+
+#left_sidebar_container{
+	width: 420px;
+}
+
+#left_sidebar_container ul{
+	list-style: none;
+}
+
+
+#middle_content_container{
+	float: left;
+	margin-left: 40px;
+}
+
+/*------------------------------------------------------
+				CONTENT WRAPPER: info.html
+-------------------------------------------------------*/
+
+.modulos{
+	overflow: hidden;
+}
+
+#puerta{
+	overflow: initial;
+}
+
+#puerta_blindada img{
+	min-width: 200px;
+}
+
+.modulos h2{
+	text-decoration: underline;
+	text-align: center;
+}
+
+.diseno{
+	overflow: hidden;
+}
+
+.galeria{
+	margin-left: 2%;
+}
+
+.galeria img{
+	width: 33%;
+	min-width: 200px;
+}
+
+#puerta_blindada_gal{
+	margin-left: 0;
+}
+
+#puerta_blindada_gal img{
+	width: 50%;
+}
+
+.item_wrapper{
+	text-align: center;
+}
+
+#mostrador_interior {
+	width:66%;
+}
+
+/*------------------------------------------------------
+				CONTENT WRAPPER: galeria.html
+-------------------------------------------------------*/
+
+.galeria_element{
+	margin: 5px;
+    padding: 5px;
+    border: 1px solid grey;
+    height: auto;
+    width: auto;
+    float: left;
+}
+
+.galeria_element img{
+	display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+	height:300px;
+	width:400px;
+}
+
+.galeria_element a:hover img{
+	 border:1px solid grey;
+}
+
+.galeria_element p{
+	text-align: center;
+}
+
+.galeria_container{
+	margin-left: 2%;
+}
+
+
+/*------------------------------------------------------
+				FORMS: presupuesto.html
+-------------------------------------------------------*/
+
+#forms_container input{
+	width: 300px;
+}
+
+#forms_container label{
+	display: inline-block;
+	width: 100px;
+}
+
+.button{
+	background-image: url(imagenes/boton.png);
+	border: 1px solid rgb(211, 211, 211);
+	color: rgb(85, 85, 85);
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.8);
+	text-decoration: none;
+	height: 20px;
+	font-weight: bold;
+	font-size: 12px;
+	padding: 8px 10px 0px;
+	display: inline-block;
+	margin: 0px 5px 20px;
+	text-decoration: none;
+	line-height: 12px;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.08);
+}
+
+.asterisk{
+	color: red;
+}
+
+.button a:hover, a:active, a:focus {
+    text-decoration: none;
+    outline: medium none;
+    font-family: Helvetica,Arial,Tahoma,sans-serif;
+}
+
+/*------------------------------------------------------
+					FOOTER
+-------------------------------------------------------*/
+	
+footer{
+	clear: left;
+	border-top: 5px solid black;
+	height: 20%;
+}
+
+#footer_wrapper{
+	margin-top: 1%;
+	height: 90%;
+	overflow:hidden;
+}
+
+
+#address_container img{
+	margin-left: 2%;
+	margin-top: 2%;
+}
